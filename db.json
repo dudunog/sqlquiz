@@ -14,8 +14,7 @@
         "Operador JOIN",
         "Cláusula GROUP BY"
       ]
-    },
-    {}
+    }
   ],
   "external": [""],
   "theme": {
@@ -24,7 +23,7 @@
       "secondary": "#1769aa",
       "mainBg": "#000",
       "contrastText": "#FFFFFF",
-      "wrong": "#FF5722",
+      "wrong": "#c62828",
       "success": "#4CAF50"
     },
     "borderRadius": "4px"

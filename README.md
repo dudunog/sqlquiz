@@ -1,7 +1,7 @@
 # Sqlquiz
 
 <p align="center">
-  <img alt="sqlquiz" src="" width="100%">
+  <img alt="sqlquiz" src="src/assets/homepage-sqlquiz.png" width="100%">
 </p>
 
 ## 💻 Projeto

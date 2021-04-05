@@ -1,15 +1,15 @@
 import React from "react";
-import db from "../db.json";
+import db from "../../db.json";
 import { Router, useRouter } from "next/router";
 import { useLoading, ThreeDots } from "@agney/react-loading";
 import { FiCheckCircle, FiXCircle } from "react-icons/fi";
 
-import Widget from "../src/components/Widget";
-import QuizLogo from "../src/components/QuizLogo";
-import QuizBackground from "../src/components/QuizBackground";
-import QuizContainer from "../src/components/QuizContainer";
-import AlternativesForm from "../src/components/AlternativesForm";
-import Button from "../src/components/Button";
+import Widget from "../../src/components/Widget";
+import QuizLogo from "../../src/components/QuizLogo";
+import QuizBackground from "../../src/components/QuizBackground";
+import QuizContainer from "../../src/components/QuizContainer";
+import AlternativesForm from "../../src/components/AlternativesForm";
+import Button from "../../src/components/Button";
 
 function ResultWidget({ results }) {
   return (

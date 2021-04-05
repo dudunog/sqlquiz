@@ -16,7 +16,10 @@
       ]
     }
   ],
-  "external": [""],
+  "external": [
+    "https://tecno-quiz.samuel-lf.vercel.app/",
+    "https://quiz-imersao-react.OLucasAlves.vercel.app/"
+  ],
   "theme": {
     "colors": {
       "primary": "#00b8d4",
